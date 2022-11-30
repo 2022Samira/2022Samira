@@ -5,7 +5,7 @@
 - <b>Web-Based Management System</b>
   - [Built using the Laravel Framework](https://github.com/)
 - <b>Hangman Game</b>
-  - [Buit using C / C++ programming Language](https://github.com/)
+  - [Built using C / C++ programming Language](https://github.com/)
  
 
 Check Out My <a href="https://www.linkedin.com/in/samira-usoof-477623167/">LinkedIn </a>
