@@ -8,7 +8,8 @@
   - [Buit using C / C++ programming Language](https://github.com/)
  
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://www.linkedin.com/in/samira-usoof-477623167/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<a href="https://www.linkedin.com/in/samira-usoof-477623167/"> Check out my LinkedIn: </a>
+
 
 
 
