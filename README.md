@@ -8,7 +8,7 @@
   - [Buit using C / C++ programming Language](https://github.com/)
  
 
-<a href="https://www.linkedin.com/in/samira-usoof-477623167/"> Check out my LinkedIn: </a>
+Check Out My <a href="https://www.linkedin.com/in/samira-usoof-477623167/">LinkedIn </a>
 
 
 
